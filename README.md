@@ -1,4 +1,4 @@
-# Python Quiz Game (Console Edition)
+# Python Quiz Game 
 
 Welcome! This is a simple, text-based quiz game built with pure Python fundamentals. If you enjoy testing your knowledge and like a bit of friendly competition, you’re in the right place.
 
